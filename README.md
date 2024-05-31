@@ -30,7 +30,7 @@
 
 
 ## Newman Full Live Report Link
-
+https://6659e10c043c344add04956d--prismatic-bublanina-0bd3c1.netlify.app/
 
 ## Positive and Negative case are Created for Follwing Scenraio.
 
