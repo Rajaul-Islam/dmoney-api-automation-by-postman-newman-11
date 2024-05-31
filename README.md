@@ -26,7 +26,7 @@
 - https://documenter.getpostman.com/view/22666982/2sA3Qv9WYo
 
 ## Test Report
-    ![Capture](https://github.com/Rajaul-Islam/dmoney-api-automation-by-postman-newman-11/assets/86623372/290720e0-d414-4579-9420-2926e4a2bd5e)
+  ![image](https://github.com/Rajaul-Islam/dmoney-api-automation-by-postman-newman-11/assets/86623372/394d5af1-3db6-48ff-8261-b2709f78b585)
 
 
 ## Newman Full Live Report Link
