@@ -7,6 +7,7 @@
 ## Tools & Technology used:
 - postman
 - newman
+- 
 
 ## Prerequisites
 - nodejs
@@ -25,6 +26,7 @@
 - https://documenter.getpostman.com/view/22666982/2sA3Qv9WYo
 
 ## Test Report
+    ![Capture](https://github.com/Rajaul-Islam/dmoney-api-automation-by-postman-newman-11/assets/86623372/290720e0-d414-4579-9420-2926e4a2bd5e)
 
 
 ## Newman Full Live Report Link
