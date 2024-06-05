@@ -7,6 +7,7 @@
 ## Tools & Technology used:
 - postman
 - newman
+- newman-html-extra
 
 ## Prerequisites
 - nodejs
@@ -16,6 +17,7 @@
 - Then run the follwing command:
 - ``` npm i ```
 - ``` npm test ```
+- add the env file(on request)
 
 ## Test case
 - https://docs.google.com/spreadsheets/d/1Cy32ygK2AF_dhE2NjlLk4_qKHDTFjuorN_IRq5oblLc/edit?usp=sharing
